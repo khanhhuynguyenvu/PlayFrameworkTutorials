@@ -1,5 +1,6 @@
 package controllers;
 
+import daos.central.CentralDao;
 import models.Friend;
 import play.mvc.*;
 
@@ -23,16 +24,16 @@ public class HomeController extends Controller {
     public Result index() {
         return ok(views.html.index.render());
     }
-
-    public Result add(){
+    public Result add() {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("defaultPersistenceUnit");
         EntityManager em = emf.createEntityManager();
-        Friend friend = new Friend(new Random().nextInt(333));
+        Friend friend = new Friend();
+        friend.setName("huy" + friend.getId());
+        friend.setSurname("huy surname" + friend.getId());
         em.getTransaction().begin();
         em.persist(friend);
         em.getTransaction().commit();
         emf.close();
         return ok("Done");
     }
-
 }
