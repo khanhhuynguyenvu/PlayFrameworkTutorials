@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="097ed316-2610-4970-ae02-6fa771882983" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jooq/EnumConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jooq/SingletonConnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
@@ -78,6 +77,12 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="JavaTest" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaTest" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="jooq" type="c8890929:TasksNode$1" />
               </path>
             </expand>
@@ -123,95 +128,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testJooqGradle [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="testJooqGradle [generateTestdbJooqSchemaSource]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="generateTestdbJooqSchemaSource" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="testJooqGradle [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="init" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="testJooqGradle [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="jar" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="JavaTest.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Gradle.testJooqGradle [jar]" />
-      <item itemvalue="Gradle.testJooqGradle [init]" />
-      <item itemvalue="Gradle.testJooqGradle [clean]" />
-      <item itemvalue="Gradle.testJooqGradle [generateTestdbJooqSchemaSource]" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.testJooqGradle [generateTestdbJooqSchemaSource]" />
-        <item itemvalue="Gradle.testJooqGradle [clean]" />
-        <item itemvalue="Gradle.testJooqGradle [init]" />
-        <item itemvalue="Gradle.testJooqGradle [jar]" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -239,7 +169,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579161736472</updated>
       <workItem from="1579161745458" duration="7359000" />
-      <workItem from="1579486049133" duration="551000" />
+      <workItem from="1579486049133" duration="4265000" />
+      <workItem from="1579490909154" duration="1572000" />
     </task>
     <servers />
   </component>
@@ -251,34 +182,38 @@
       <screen x="0" y="23" width="1280" height="738" />
     </state>
     <state x="240" y="57" key="#Project_Structure/0.23.1280.738@0.23.1280.738" timestamp="1579164884183" />
-    <state x="209" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579164951562">
+    <state x="209" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579489719296">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
-    <state x="209" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.738@0.23.1280.738" timestamp="1579164951562" />
+    <state x="209" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.738@0.23.1280.738" timestamp="1579489719296" />
     <state x="453" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1579164229248">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
     <state x="453" y="102" key="#com.intellij.ide.util.MemberChooser/0.23.1280.738@0.23.1280.738" timestamp="1579164229248" />
-    <state width="1234" height="173" key="GridCell.Tab.0.bottom" timestamp="1579486607072">
+    <state width="1238" height="178" key="GridCell.Tab.0.bottom" timestamp="1579492601730">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
-    <state width="1234" height="173" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1579486607072" />
-    <state width="1234" height="173" key="GridCell.Tab.0.center" timestamp="1579486607071">
+    <state width="1238" height="178" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1579492601730" />
+    <state width="1238" height="178" key="GridCell.Tab.0.center" timestamp="1579492601730">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
-    <state width="1234" height="173" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1579486607071" />
-    <state width="1234" height="173" key="GridCell.Tab.0.left" timestamp="1579486607070">
+    <state width="1238" height="178" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1579492601730" />
+    <state width="1238" height="178" key="GridCell.Tab.0.left" timestamp="1579492601729">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
-    <state width="1234" height="173" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1579486607070" />
-    <state width="1234" height="173" key="GridCell.Tab.0.right" timestamp="1579486607071">
+    <state width="1238" height="178" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1579492601729" />
+    <state width="1238" height="178" key="GridCell.Tab.0.right" timestamp="1579492601730">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
-    <state width="1234" height="173" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1579486607071" />
-    <state x="304" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1579486052843">
+    <state width="1238" height="178" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1579492601730" />
+    <state x="304" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1579490909363">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
-    <state x="304" y="222" key="com.intellij.ide.util.TipDialog/0.23.1280.738@0.23.1280.738" timestamp="1579486052843" />
+    <state x="304" y="222" key="com.intellij.ide.util.TipDialog/0.23.1280.738@0.23.1280.738" timestamp="1579490909363" />
+    <state x="378" y="150" key="extract.method.dialog" timestamp="1579492618924">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state x="378" y="150" key="extract.method.dialog/0.23.1280.738@0.23.1280.738" timestamp="1579492618924" />
     <state x="296" y="23" width="687" height="738" key="find.popup" timestamp="1579161900513">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
