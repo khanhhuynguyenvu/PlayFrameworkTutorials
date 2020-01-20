@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="097ed316-2610-4970-ae02-6fa771882983" name="Default Changelist" comment="" />
+    <list default="true" id="097ed316-2610-4970-ae02-6fa771882983" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +94,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WT7TFINbNL5EM5uAQv5YiLhFM1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -89,8 +107,10 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -201,12 +221,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:MySQL - testdb@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -224,6 +239,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579161736472</updated>
       <workItem from="1579161745458" duration="7359000" />
+      <workItem from="1579486049133" duration="551000" />
     </task>
     <servers />
   </component>
@@ -243,22 +259,26 @@
       <screen x="0" y="23" width="1280" height="738" />
     </state>
     <state x="453" y="102" key="#com.intellij.ide.util.MemberChooser/0.23.1280.738@0.23.1280.738" timestamp="1579164229248" />
-    <state width="1238" height="179" key="GridCell.Tab.0.bottom" timestamp="1579169450951">
+    <state width="1234" height="173" key="GridCell.Tab.0.bottom" timestamp="1579486607072">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
-    <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1579169450951" />
-    <state width="1238" height="179" key="GridCell.Tab.0.center" timestamp="1579169450951">
+    <state width="1234" height="173" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1579486607072" />
+    <state width="1234" height="173" key="GridCell.Tab.0.center" timestamp="1579486607071">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
-    <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1579169450951" />
-    <state width="1238" height="179" key="GridCell.Tab.0.left" timestamp="1579169450950">
+    <state width="1234" height="173" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1579486607071" />
+    <state width="1234" height="173" key="GridCell.Tab.0.left" timestamp="1579486607070">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
-    <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1579169450950" />
-    <state width="1238" height="179" key="GridCell.Tab.0.right" timestamp="1579169450951">
+    <state width="1234" height="173" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1579486607070" />
+    <state width="1234" height="173" key="GridCell.Tab.0.right" timestamp="1579486607071">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
-    <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1579169450951" />
+    <state width="1234" height="173" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1579486607071" />
+    <state x="304" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1579486052843">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state x="304" y="222" key="com.intellij.ide.util.TipDialog/0.23.1280.738@0.23.1280.738" timestamp="1579486052843" />
     <state x="296" y="23" width="687" height="738" key="find.popup" timestamp="1579161900513">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
